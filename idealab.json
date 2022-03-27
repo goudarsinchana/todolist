@@ -1,0 +1,59 @@
+{
+  "userlist": [
+    {
+      "firstname": "sinchana",
+      "gmail": "sin@gmail.com",
+      "number": "6789678900",
+      "project": "project1",
+      "task": "javascript based",
+      "pickdate": "2022-03-14",
+      "enddate": "2022-04-10",
+      "stat": "process",
+      "id": 0
+    },
+    {
+      "firstname": "Mohan",
+      "gmail": "mohan@gmail.com",
+      "number": "6754567890",
+      "project": "CSS",
+      "task": "Cascading style sheets",
+      "pickdate": "2022-03-26",
+      "enddate": "2022-03-27",
+      "stat": "process",
+      "id": 1
+    },
+    {
+      "firstname": "sambha",
+      "gmail": "samba@gmail.com",
+      "number": "9867843989",
+      "project": "Advanced Repair",
+      "task": "derma care",
+      "pickdate": "2022-04-09",
+      "enddate": "2022-03-20",
+      "stat": "completed",
+      "id": 2
+    },
+    {
+      "firstname": "chamiliya",
+      "gmail": "chamiliya@gmail.com",
+      "number": "6784536782",
+      "project": "water consistency",
+      "task": "puripication",
+      "pickdate": "2022-04-03",
+      "enddate": "2022-04-10",
+      "stat": "not completed",
+      "id": 3
+    },
+    {
+      "firstname": "sanjay1",
+      "gmail": "sanjay67@gmail.com",
+      "number": "8745902679",
+      "project": "classmate",
+      "task": "book coolection",
+      "pickdate": "2022-03-25",
+      "enddate": "2022-04-01",
+      "stat": "completed",
+      "id": 4
+    }
+  ]
+}
